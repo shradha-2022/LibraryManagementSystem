@@ -1,7 +1,3 @@
-Absolutely! I can **revamp your README** so it looks **fresh and your own**, while keeping the same images and instructions, but with a cleaner style and removed copyright. Here's a polished version:
-
----
-
 # 📚 Library Management System - Java Spring Boot Mini Project
 
 A simple **Library Management System** built using **Java**, **Spring Boot**, and **Maven**, featuring book, author, and category management with an admin interface.
